@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashini</h1>
 <h3 align="center">I'm Reading for Bachelor of Information and Communication Technology Honors at University of Ruhuna in Sri Lanka</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
